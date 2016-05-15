@@ -1,0 +1,808 @@
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.3 seconds.
+[Spark] Solution found in 4.3 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 7.7 seconds.
+[Spark] Solution found in 7.7 seconds.
+Running incremental callback analysis for 7 components...
+Incremental callback analysis done.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 2.6 seconds.
+[Spark] Solution found in 2.6 seconds.
+Running incremental callback analysis for 0 components...
+Incremental callback analysis done.
+Found 76 callback methods for 9 components
+Found {res/layout/article_webview_layout.xml=[2131558411 - android.widget.TextView, 2131558410 - bbc.mobile.news.view.ArticleWebView, -1 - android.widget.RelativeLayout], res/layout/privacy_screen_layout.xml=[-1 - android.widget.LinearLayout, -1 - android.widget.TextView, 2131558466 - android.webkit.WebView, 2131558465 - android.widget.CheckBox, 2131558415 - android.view.View], res/layout/connection_dialog.xml=[-1 - android.widget.LinearLayout, 2131558429 - android.widget.TextView, 2131558414 - android.widget.TextView, 2131558431 - android.widget.Button, 2131558430 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout/debug_dialog_heap_layout.xml=[-1 - android.widget.LinearLayout, -1 - android.widget.Button], res/layout/home_screen_layout.xml=[2131558446 - android.widget.LinearLayout, 2131558449 - android.widget.RelativeLayout, 2131558448 - android.widget.ListView, 2131558447 - bbc.mobile.news.view.TickerView, 2131558433 - android.widget.TextView], res/layout/homepage_gallery_item.xml=[2131558450 - android.widget.RelativeLayout, 2131558451 - android.widget.ImageView, 2131558452 - android.widget.TextView], res/layout/widget.xml=[2131558470 - android.widget.RelativeLayout, -1 - android.widget.LinearLayout, 2131558443 - android.widget.ImageButton, 2131558414 - android.widget.TextView, 2131558469 - android.widget.ImageView, 2131558468 - android.widget.ImageButton, -1 - android.widget.RelativeLayout], res/layout/tickerbar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/category_view_topstories_layout.xml=[2131558420 - android.view.View, 2131558426 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558421 - android.view.View, 2131558422 - android.widget.ProgressBar, 2131558425 - bbc.mobile.news.view.CategoryView, 2131558419 - android.widget.TextView, 2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558424 - android.widget.TextView], res/layout/advert_layout.xml=[2131558400 - com.medialets.advertising.BannerAdView, -1 - android.widget.RelativeLayout], res/layout/notify_complete_layout.xml=[-1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView, 2131558460 - android.widget.ImageView], res/layout/category_view_layout.xml=[2131558420 - android.view.View, -1 - android.widget.LinearLayout, 2131558421 - android.view.View, 2131558422 - android.widget.ProgressBar, -1 - bbc.mobile.news.view.CategoryView, 2131558419 - android.widget.TextView, 2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558424 - android.widget.TextView], res/layout/banner_placeholder_layout.xml=[-1 - android.widget.LinearLayout], res/layout/av_dialog_container.xml=[2131558416 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, 2131558415 - android.view.View], res/layout/article_activity_layout.xml=[2131558409 - android.view.View, 2131558408 - android.view.View, -1 - android.widget.LinearLayout, 2131558404 - bbc.mobile.news.view.ArticleWorkspace, 2131558406 - bbc.mobile.news.view.ToolbarView, 2131558407 - android.view.View, 2131558403 - android.widget.RelativeLayout], res/layout/copyright.xml=[-1 - android.widget.LinearLayout, 2131558433 - android.widget.TextView], res/layout/gallery_item_layout.xml=[-1 - bbc.mobile.news.view.ArticleGalleryView, 2131558437 - android.widget.TextView, 2131558436 - bbc.mobile.news.view.NewsImageView], res/layout/notify_progress_layout.xml=[-1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView, 2131558462 - android.widget.ProgressBar, 2131558460 - android.widget.ImageView], res/layout/headerbar.xml=[2131558440 - android.widget.ImageButton, 2131558445 - android.widget.ImageButton, 2131558444 - android.widget.ImageButton, 2131558443 - android.widget.ImageButton, 2131558401 - android.widget.RelativeLayout, 2131558439 - android.widget.ImageButton, 2131558442 - android.widget.ImageButton, 2131558438 - android.widget.ImageButton, 2131558441 - android.widget.ProgressBar], res/layout/list_edit_view.xml=[-1 - android.view.View, 2131558453 - android.widget.LinearLayout, -1 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/breaking_news_bar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/remote_info_view_screen_layout.xml=[-1 - android.widget.LinearLayout, 2131558466 - android.webkit.WebView], res/layout/categorybar.xml=[-1 - android.widget.LinearLayout, 2131558427 - android.widget.TextView, 2131558428 - bbc.mobile.news.view.PagingControlView], res/layout/av_dialog_video_item.xml=[-1 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558413 - android.widget.TextView], res/layout/widget_body.xml=[2131558470 - android.widget.RelativeLayout, -1 - android.widget.LinearLayout, 2131558450 - android.widget.RelativeLayout, 2131558473 - android.widget.TextView, 2131558451 - android.widget.ImageView, 2131558472 - android.widget.ImageView, 2131558471 - android.widget.RelativeLayout, 2131558452 - android.widget.TextView], res/layout/widget_gallery_fade_out.xml=[-1 - android.widget.RelativeLayout], res/layout/main.xml=[2131558459 - android.widget.TextView, 2131558456 - android.widget.Button, -1 - android.widget.LinearLayout, 2131558457 - android.widget.Button, -1 - android.widget.ScrollView, 2131558458 - android.widget.Button, 2131558455 - android.widget.Button, 2131558454 - android.widget.Button], res/layout/video.xml=[-1 - android.widget.ProgressBar, 2131558467 - android.widget.LinearLayout], res/layout/personalisation_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558464 - android.widget.Button, 2131558463 - android.widget.ListView], res/layout/av_dialog_audio_item.xml=[-1 - android.widget.ImageView, 2131558412 - android.widget.LinearLayout, 2131558413 - android.widget.TextView], res/layout/feed_view_layout.xml=[2131558435 - android.widget.CheckBox, -1 - bbc.mobile.news.view.FeedView, 2131558434 - android.widget.TextView], res/layout/widget_gallery_fade_in.xml=[-1 - android.widget.RelativeLayout], res/layout/context_menu.xml=[2131558412 - android.widget.LinearLayout, -1 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558432 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, -1 - android.widget.TextView, 2131558415 - android.view.View]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 128 sinks, and 76 callback methods.
+Running data flow analysis...
+Running data flow analysis on C:\Users\Rohit\Downloads\B.apk with 89 sources and 128 sinks...
+Starting infoflow computation...
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 3.0 seconds.
+[Spark] Solution found in 3.0 seconds.
+Found a flow to sink virtualinvoke $r2.<java.io.OutputStream: void write(byte[],int,int)>($r1, 0, $i1), from the following sources:
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLongitude()>() (in <com.medialets.analytics.f: void run()>)
+	- $r3 = virtualinvoke $r1.<android.location.LocationManager: android.location.Location getLastKnownLocation(java.lang.String)>($r2) (in <com.medialets.analytics.f: android.location.Location a()>)
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLatitude()>() (in <com.medialets.analytics.f: void run()>)
+Found a flow to sink virtualinvoke $r1.<android.os.Handler: boolean sendMessage(android.os.Message)>($r7), from the following sources:
+	- $r7 = virtualinvoke $r6.<android.os.Handler: android.os.Message obtainMessage(int,java.lang.Object)>(2, $r5) (in <bbc.mobile.news.feed.FeedManager: void fetch()>)
+Found a flow to sink virtualinvoke $r6.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.dialog.AVDialog$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r7.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.view.CategoryView$1$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.AlarmReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.BootReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Maximum memory consumption: 422.053472 MB
+Analysis has run for 39.099586537 seconds
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.0 seconds.
+[Spark] Solution found in 4.0 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 5.2 seconds.
+[Spark] Solution found in 5.2 seconds.
+Running incremental callback analysis for 7 components...
+Incremental callback analysis done.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 1.5 seconds.
+[Spark] Solution found in 1.5 seconds.
+Running incremental callback analysis for 0 components...
+Incremental callback analysis done.
+Found 76 callback methods for 9 components
+Found {res/layout/article_webview_layout.xml=[2131558411 - android.widget.TextView, 2131558410 - bbc.mobile.news.view.ArticleWebView, -1 - android.widget.RelativeLayout], res/layout/privacy_screen_layout.xml=[-1 - android.widget.LinearLayout, 2131558415 - android.view.View, -1 - android.widget.TextView, 2131558466 - android.webkit.WebView, 2131558465 - android.widget.CheckBox], res/layout/connection_dialog.xml=[-1 - android.widget.LinearLayout, 2131558429 - android.widget.TextView, 2131558414 - android.widget.TextView, 2131558431 - android.widget.Button, 2131558430 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout/debug_dialog_heap_layout.xml=[-1 - android.widget.LinearLayout, -1 - android.widget.Button], res/layout/home_screen_layout.xml=[2131558446 - android.widget.LinearLayout, 2131558449 - android.widget.RelativeLayout, 2131558448 - android.widget.ListView, 2131558447 - bbc.mobile.news.view.TickerView, 2131558433 - android.widget.TextView], res/layout/homepage_gallery_item.xml=[2131558451 - android.widget.ImageView, 2131558450 - android.widget.RelativeLayout, 2131558452 - android.widget.TextView], res/layout/widget.xml=[2131558470 - android.widget.RelativeLayout, 2131558468 - android.widget.ImageButton, -1 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, -1 - android.widget.RelativeLayout, 2131558469 - android.widget.ImageView, 2131558443 - android.widget.ImageButton], res/layout/tickerbar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/category_view_topstories_layout.xml=[2131558426 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558422 - android.widget.ProgressBar, 2131558425 - bbc.mobile.news.view.CategoryView, 2131558419 - android.widget.TextView, 2131558421 - android.view.View, 2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558420 - android.view.View, 2131558424 - android.widget.TextView], res/layout/advert_layout.xml=[2131558400 - com.medialets.advertising.BannerAdView, -1 - android.widget.RelativeLayout], res/layout/notify_complete_layout.xml=[-1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView, 2131558460 - android.widget.ImageView], res/layout/category_view_layout.xml=[-1 - android.widget.LinearLayout, 2131558422 - android.widget.ProgressBar, -1 - bbc.mobile.news.view.CategoryView, 2131558419 - android.widget.TextView, 2131558421 - android.view.View, 2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558420 - android.view.View, 2131558424 - android.widget.TextView], res/layout/banner_placeholder_layout.xml=[-1 - android.widget.LinearLayout], res/layout/av_dialog_container.xml=[2131558416 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, 2131558415 - android.view.View], res/layout/article_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558407 - android.view.View, 2131558408 - android.view.View, 2131558404 - bbc.mobile.news.view.ArticleWorkspace, 2131558409 - android.view.View, 2131558406 - bbc.mobile.news.view.ToolbarView, 2131558403 - android.widget.RelativeLayout], res/layout/copyright.xml=[-1 - android.widget.LinearLayout, 2131558433 - android.widget.TextView], res/layout/gallery_item_layout.xml=[2131558437 - android.widget.TextView, -1 - bbc.mobile.news.view.ArticleGalleryView, 2131558436 - bbc.mobile.news.view.NewsImageView], res/layout/notify_progress_layout.xml=[-1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView, 2131558462 - android.widget.ProgressBar, 2131558460 - android.widget.ImageView], res/layout/headerbar.xml=[2131558440 - android.widget.ImageButton, 2131558444 - android.widget.ImageButton, 2131558439 - android.widget.ImageButton, 2131558438 - android.widget.ImageButton, 2131558445 - android.widget.ImageButton, 2131558401 - android.widget.RelativeLayout, 2131558442 - android.widget.ImageButton, 2131558443 - android.widget.ImageButton, 2131558441 - android.widget.ProgressBar], res/layout/list_edit_view.xml=[2131558453 - android.widget.LinearLayout, -1 - android.widget.TextView, -1 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/breaking_news_bar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/remote_info_view_screen_layout.xml=[-1 - android.widget.LinearLayout, 2131558466 - android.webkit.WebView], res/layout/categorybar.xml=[2131558428 - bbc.mobile.news.view.PagingControlView, -1 - android.widget.LinearLayout, 2131558427 - android.widget.TextView], res/layout/av_dialog_video_item.xml=[-1 - android.widget.LinearLayout, 2131558413 - android.widget.TextView, -1 - android.widget.ImageView], res/layout/widget_body.xml=[2131558451 - android.widget.ImageView, 2131558470 - android.widget.RelativeLayout, -1 - android.widget.LinearLayout, 2131558450 - android.widget.RelativeLayout, 2131558473 - android.widget.TextView, 2131558472 - android.widget.ImageView, 2131558471 - android.widget.RelativeLayout, 2131558452 - android.widget.TextView], res/layout/widget_gallery_fade_out.xml=[-1 - android.widget.RelativeLayout], res/layout/main.xml=[2131558459 - android.widget.TextView, 2131558456 - android.widget.Button, -1 - android.widget.LinearLayout, -1 - android.widget.ScrollView, 2131558457 - android.widget.Button, 2131558458 - android.widget.Button, 2131558455 - android.widget.Button, 2131558454 - android.widget.Button], res/layout/video.xml=[-1 - android.widget.ProgressBar, 2131558467 - android.widget.LinearLayout], res/layout/personalisation_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558464 - android.widget.Button, 2131558463 - android.widget.ListView], res/layout/av_dialog_audio_item.xml=[2131558412 - android.widget.LinearLayout, 2131558413 - android.widget.TextView, -1 - android.widget.ImageView], res/layout/feed_view_layout.xml=[2131558435 - android.widget.CheckBox, -1 - bbc.mobile.news.view.FeedView, 2131558434 - android.widget.TextView], res/layout/widget_gallery_fade_in.xml=[-1 - android.widget.RelativeLayout], res/layout/context_menu.xml=[2131558412 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558432 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, 2131558415 - android.view.View, -1 - android.widget.TextView, -1 - android.widget.ImageView]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 128 sinks, and 76 callback methods.
+Running data flow analysis...
+Running data flow analysis on C:\Users\Rohit\Downloads\B.apk with 89 sources and 128 sinks...
+Starting infoflow computation...
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 2.6 seconds.
+[Spark] Solution found in 2.6 seconds.
+Found a flow to sink virtualinvoke $r7.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.view.CategoryView$1$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r6.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.dialog.AVDialog$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.AlarmReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r1.<android.os.Handler: boolean sendMessage(android.os.Message)>($r7), from the following sources:
+	- $r7 = virtualinvoke $r6.<android.os.Handler: android.os.Message obtainMessage(int,java.lang.Object)>(2, $r5) (in <bbc.mobile.news.feed.FeedManager: void fetch()>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.BootReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r2.<java.io.OutputStream: void write(byte[],int,int)>($r1, 0, $i1), from the following sources:
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLongitude()>() (in <com.medialets.analytics.f: void run()>)
+	- $r3 = virtualinvoke $r1.<android.location.LocationManager: android.location.Location getLastKnownLocation(java.lang.String)>($r2) (in <com.medialets.analytics.f: android.location.Location a()>)
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLatitude()>() (in <com.medialets.analytics.f: void run()>)
+Maximum memory consumption: 587.940432 MB
+Analysis has run for 42.035162994 seconds
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.4 seconds.
+[Spark] Solution found in 4.4 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 3.9 seconds.
+[Spark] Solution found in 3.9 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.2 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 5.0 seconds.
+[Spark] Solution found in 5.0 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 6.4 seconds.
+[Spark] Solution found in 6.4 seconds.
+Running incremental callback analysis for 7 components...
+Incremental callback analysis done.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 1.7 seconds.
+[Spark] Solution found in 1.7 seconds.
+Running incremental callback analysis for 0 components...
+Incremental callback analysis done.
+Found 76 callback methods for 9 components
+Found {res/layout/article_webview_layout.xml=[2131558410 - bbc.mobile.news.view.ArticleWebView, 2131558411 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/privacy_screen_layout.xml=[-1 - android.widget.LinearLayout, 2131558466 - android.webkit.WebView, -1 - android.widget.TextView, 2131558465 - android.widget.CheckBox, 2131558415 - android.view.View], res/layout/connection_dialog.xml=[2131558430 - android.widget.Button, -1 - android.widget.LinearLayout, 2131558429 - android.widget.TextView, 2131558431 - android.widget.Button, 2131558414 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/debug_dialog_heap_layout.xml=[-1 - android.widget.LinearLayout, -1 - android.widget.Button], res/layout/home_screen_layout.xml=[2131558446 - android.widget.LinearLayout, 2131558449 - android.widget.RelativeLayout, 2131558448 - android.widget.ListView, 2131558447 - bbc.mobile.news.view.TickerView, 2131558433 - android.widget.TextView], res/layout/homepage_gallery_item.xml=[2131558451 - android.widget.ImageView, 2131558452 - android.widget.TextView, 2131558450 - android.widget.RelativeLayout], res/layout/widget.xml=[2131558469 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558470 - android.widget.RelativeLayout, 2131558414 - android.widget.TextView, 2131558443 - android.widget.ImageButton, 2131558468 - android.widget.ImageButton, -1 - android.widget.RelativeLayout], res/layout/tickerbar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/category_view_topstories_layout.xml=[2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558419 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558426 - android.widget.TextView, 2131558422 - android.widget.ProgressBar, 2131558425 - bbc.mobile.news.view.CategoryView, 2131558424 - android.widget.TextView, 2131558421 - android.view.View, 2131558420 - android.view.View], res/layout/advert_layout.xml=[2131558400 - com.medialets.advertising.BannerAdView, -1 - android.widget.RelativeLayout], res/layout/notify_complete_layout.xml=[-1 - android.widget.LinearLayout, 2131558460 - android.widget.ImageView, 2131558461 - android.widget.TextView], res/layout/category_view_layout.xml=[2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558419 - android.widget.TextView, -1 - android.widget.LinearLayout, -1 - bbc.mobile.news.view.CategoryView, 2131558422 - android.widget.ProgressBar, 2131558424 - android.widget.TextView, 2131558421 - android.view.View, 2131558420 - android.view.View], res/layout/banner_placeholder_layout.xml=[-1 - android.widget.LinearLayout], res/layout/av_dialog_container.xml=[2131558416 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, 2131558415 - android.view.View], res/layout/article_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558404 - bbc.mobile.news.view.ArticleWorkspace, 2131558406 - bbc.mobile.news.view.ToolbarView, 2131558409 - android.view.View, 2131558407 - android.view.View, 2131558408 - android.view.View, 2131558403 - android.widget.RelativeLayout], res/layout/copyright.xml=[-1 - android.widget.LinearLayout, 2131558433 - android.widget.TextView], res/layout/gallery_item_layout.xml=[-1 - bbc.mobile.news.view.ArticleGalleryView, 2131558437 - android.widget.TextView, 2131558436 - bbc.mobile.news.view.NewsImageView], res/layout/notify_progress_layout.xml=[-1 - android.widget.LinearLayout, 2131558460 - android.widget.ImageView, 2131558462 - android.widget.ProgressBar, 2131558461 - android.widget.TextView], res/layout/headerbar.xml=[2131558445 - android.widget.ImageButton, 2131558438 - android.widget.ImageButton, 2131558440 - android.widget.ImageButton, 2131558444 - android.widget.ImageButton, 2131558443 - android.widget.ImageButton, 2131558401 - android.widget.RelativeLayout, 2131558442 - android.widget.ImageButton, 2131558439 - android.widget.ImageButton, 2131558441 - android.widget.ProgressBar], res/layout/list_edit_view.xml=[-1 - android.view.View, 2131558453 - android.widget.LinearLayout, -1 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/breaking_news_bar.xml=[2131558417 - android.widget.TextView, 2131558418 - android.view.View, -1 - android.widget.RelativeLayout], res/layout/remote_info_view_screen_layout.xml=[-1 - android.widget.LinearLayout, 2131558466 - android.webkit.WebView], res/layout/categorybar.xml=[-1 - android.widget.LinearLayout, 2131558428 - bbc.mobile.news.view.PagingControlView, 2131558427 - android.widget.TextView], res/layout/av_dialog_video_item.xml=[2131558413 - android.widget.TextView, -1 - android.widget.LinearLayout, -1 - android.widget.ImageView], res/layout/widget_body.xml=[2131558451 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558470 - android.widget.RelativeLayout, 2131558452 - android.widget.TextView, 2131558472 - android.widget.ImageView, 2131558450 - android.widget.RelativeLayout, 2131558473 - android.widget.TextView, 2131558471 - android.widget.RelativeLayout], res/layout/widget_gallery_fade_out.xml=[-1 - android.widget.RelativeLayout], res/layout/main.xml=[2131558459 - android.widget.TextView, -1 - android.widget.LinearLayout, -1 - android.widget.ScrollView, 2131558456 - android.widget.Button, 2131558454 - android.widget.Button, 2131558457 - android.widget.Button, 2131558458 - android.widget.Button, 2131558455 - android.widget.Button], res/layout/video.xml=[-1 - android.widget.ProgressBar, 2131558467 - android.widget.LinearLayout], res/layout/personalisation_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558463 - android.widget.ListView, 2131558464 - android.widget.Button], res/layout/av_dialog_audio_item.xml=[2131558413 - android.widget.TextView, 2131558412 - android.widget.LinearLayout, -1 - android.widget.ImageView], res/layout/feed_view_layout.xml=[2131558434 - android.widget.TextView, 2131558435 - android.widget.CheckBox, -1 - bbc.mobile.news.view.FeedView], res/layout/widget_gallery_fade_in.xml=[-1 - android.widget.RelativeLayout], res/layout/context_menu.xml=[2131558412 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, -1 - android.widget.ImageView, 2131558432 - android.widget.LinearLayout, 2131558414 - android.widget.TextView, -1 - android.widget.TextView, 2131558415 - android.view.View]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 128 sinks, and 76 callback methods.
+Running data flow analysis...
+Running data flow analysis on C:\Users\Rohit\Downloads\B.apk with 89 sources and 128 sinks...
+Starting infoflow computation...
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 2.4 seconds.
+[Spark] Solution found in 2.4 seconds.
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.AlarmReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r6.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.dialog.AVDialog$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r7.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.view.CategoryView$1$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.BootReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r2.<java.io.OutputStream: void write(byte[],int,int)>($r1, 0, $i1), from the following sources:
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLongitude()>() (in <com.medialets.analytics.f: void run()>)
+	- $r3 = virtualinvoke $r1.<android.location.LocationManager: android.location.Location getLastKnownLocation(java.lang.String)>($r2) (in <com.medialets.analytics.f: android.location.Location a()>)
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLatitude()>() (in <com.medialets.analytics.f: void run()>)
+Found a flow to sink virtualinvoke $r1.<android.os.Handler: boolean sendMessage(android.os.Message)>($r7), from the following sources:
+	- $r7 = virtualinvoke $r6.<android.os.Handler: android.os.Message obtainMessage(int,java.lang.Object)>(2, $r5) (in <bbc.mobile.news.feed.FeedManager: void fetch()>)
+Maximum memory consumption: 580.387712 MB
+Analysis has run for 43.426637397 seconds
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.5 seconds.
+[Spark] Solution found in 4.5 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 10.2 seconds.
+[Spark] Solution found in 10.2 seconds.
+Running incremental callback analysis for 7 components...
+Incremental callback analysis done.
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 1.7 seconds.
+[Spark] Solution found in 1.7 seconds.
+Running incremental callback analysis for 0 components...
+Incremental callback analysis done.
+Found 76 callback methods for 9 components
+Found {res/layout/article_webview_layout.xml=[2131558411 - android.widget.TextView, -1 - android.widget.RelativeLayout, 2131558410 - bbc.mobile.news.view.ArticleWebView], res/layout/privacy_screen_layout.xml=[-1 - android.widget.TextView, 2131558466 - android.webkit.WebView, -1 - android.widget.LinearLayout, 2131558415 - android.view.View, 2131558465 - android.widget.CheckBox], res/layout/connection_dialog.xml=[2131558431 - android.widget.Button, 2131558429 - android.widget.TextView, -1 - android.widget.RelativeLayout, 2131558430 - android.widget.Button, -1 - android.widget.LinearLayout, 2131558414 - android.widget.TextView], res/layout/debug_dialog_heap_layout.xml=[-1 - android.widget.LinearLayout, -1 - android.widget.Button], res/layout/home_screen_layout.xml=[2131558447 - bbc.mobile.news.view.TickerView, 2131558433 - android.widget.TextView, 2131558448 - android.widget.ListView, 2131558446 - android.widget.LinearLayout, 2131558449 - android.widget.RelativeLayout], res/layout/homepage_gallery_item.xml=[2131558450 - android.widget.RelativeLayout, 2131558451 - android.widget.ImageView, 2131558452 - android.widget.TextView], res/layout/widget.xml=[2131558470 - android.widget.RelativeLayout, 2131558469 - android.widget.ImageView, -1 - android.widget.RelativeLayout, -1 - android.widget.LinearLayout, 2131558468 - android.widget.ImageButton, 2131558443 - android.widget.ImageButton, 2131558414 - android.widget.TextView], res/layout/tickerbar.xml=[-1 - android.widget.RelativeLayout, 2131558418 - android.view.View, 2131558417 - android.widget.TextView], res/layout/category_view_topstories_layout.xml=[2131558423 - bbc.mobile.news.view.LeftAlignedGallery, 2131558420 - android.view.View, 2131558425 - bbc.mobile.news.view.CategoryView, 2131558422 - android.widget.ProgressBar, 2131558426 - android.widget.TextView, 2131558419 - android.widget.TextView, 2131558421 - android.view.View, -1 - android.widget.LinearLayout, 2131558424 - android.widget.TextView], res/layout/advert_layout.xml=[-1 - android.widget.RelativeLayout, 2131558400 - com.medialets.advertising.BannerAdView], res/layout/notify_complete_layout.xml=[2131558460 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView], res/layout/category_view_layout.xml=[2131558423 - bbc.mobile.news.view.LeftAlignedGallery, -1 - bbc.mobile.news.view.CategoryView, 2131558420 - android.view.View, 2131558422 - android.widget.ProgressBar, 2131558419 - android.widget.TextView, 2131558421 - android.view.View, -1 - android.widget.LinearLayout, 2131558424 - android.widget.TextView], res/layout/banner_placeholder_layout.xml=[-1 - android.widget.LinearLayout], res/layout/av_dialog_container.xml=[-1 - android.widget.LinearLayout, 2131558415 - android.view.View, 2131558416 - android.widget.LinearLayout, 2131558414 - android.widget.TextView], res/layout/article_activity_layout.xml=[2131558409 - android.view.View, 2131558407 - android.view.View, 2131558403 - android.widget.RelativeLayout, 2131558406 - bbc.mobile.news.view.ToolbarView, -1 - android.widget.LinearLayout, 2131558404 - bbc.mobile.news.view.ArticleWorkspace, 2131558408 - android.view.View], res/layout/copyright.xml=[2131558433 - android.widget.TextView, -1 - android.widget.LinearLayout], res/layout/gallery_item_layout.xml=[2131558436 - bbc.mobile.news.view.NewsImageView, -1 - bbc.mobile.news.view.ArticleGalleryView, 2131558437 - android.widget.TextView], res/layout/notify_progress_layout.xml=[2131558462 - android.widget.ProgressBar, 2131558460 - android.widget.ImageView, -1 - android.widget.LinearLayout, 2131558461 - android.widget.TextView], res/layout/headerbar.xml=[2131558441 - android.widget.ProgressBar, 2131558442 - android.widget.ImageButton, 2131558438 - android.widget.ImageButton, 2131558445 - android.widget.ImageButton, 2131558401 - android.widget.RelativeLayout, 2131558444 - android.widget.ImageButton, 2131558440 - android.widget.ImageButton, 2131558443 - android.widget.ImageButton, 2131558439 - android.widget.ImageButton], res/layout/list_edit_view.xml=[-1 - android.widget.RelativeLayout, -1 - android.widget.TextView, 2131558453 - android.widget.LinearLayout, -1 - android.view.View], res/layout/breaking_news_bar.xml=[-1 - android.widget.RelativeLayout, 2131558418 - android.view.View, 2131558417 - android.widget.TextView], res/layout/remote_info_view_screen_layout.xml=[2131558466 - android.webkit.WebView, -1 - android.widget.LinearLayout], res/layout/categorybar.xml=[2131558428 - bbc.mobile.news.view.PagingControlView, -1 - android.widget.LinearLayout, 2131558427 - android.widget.TextView], res/layout/av_dialog_video_item.xml=[-1 - android.widget.ImageView, 2131558413 - android.widget.TextView, -1 - android.widget.LinearLayout], res/layout/widget_body.xml=[2131558473 - android.widget.TextView, 2131558450 - android.widget.RelativeLayout, 2131558470 - android.widget.RelativeLayout, 2131558451 - android.widget.ImageView, 2131558472 - android.widget.ImageView, 2131558452 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558471 - android.widget.RelativeLayout], res/layout/widget_gallery_fade_out.xml=[-1 - android.widget.RelativeLayout], res/layout/main.xml=[2131558455 - android.widget.Button, 2131558454 - android.widget.Button, 2131558459 - android.widget.TextView, 2131558456 - android.widget.Button, 2131558457 - android.widget.Button, -1 - android.widget.LinearLayout, -1 - android.widget.ScrollView, 2131558458 - android.widget.Button], res/layout/video.xml=[2131558467 - android.widget.LinearLayout, -1 - android.widget.ProgressBar], res/layout/personalisation_activity_layout.xml=[-1 - android.widget.LinearLayout, 2131558464 - android.widget.Button, 2131558463 - android.widget.ListView], res/layout/av_dialog_audio_item.xml=[-1 - android.widget.ImageView, 2131558412 - android.widget.LinearLayout, 2131558413 - android.widget.TextView], res/layout/feed_view_layout.xml=[2131558435 - android.widget.CheckBox, 2131558434 - android.widget.TextView, -1 - bbc.mobile.news.view.FeedView], res/layout/widget_gallery_fade_in.xml=[-1 - android.widget.RelativeLayout], res/layout/context_menu.xml=[-1 - android.widget.ImageView, 2131558432 - android.widget.LinearLayout, -1 - android.widget.TextView, 2131558412 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558415 - android.view.View, 2131558414 - android.widget.TextView]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 128 sinks, and 76 callback methods.
+Running data flow analysis...
+Running data flow analysis on C:\Users\Rohit\Downloads\B.apk with 89 sources and 128 sinks...
+Starting infoflow computation...
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 3.6 seconds.
+[Spark] Solution found in 3.6 seconds.
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.BootReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r7.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.view.CategoryView$1$1: void onClick(android.view.View)>)
+Found a flow to sink virtualinvoke $r2.<java.io.OutputStream: void write(byte[],int,int)>($r1, 0, $i1), from the following sources:
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLatitude()>() (in <com.medialets.analytics.f: void run()>)
+	- $r3 = virtualinvoke $r1.<android.location.LocationManager: android.location.Location getLastKnownLocation(java.lang.String)>($r2) (in <com.medialets.analytics.f: android.location.Location a()>)
+	- $d0 = virtualinvoke $r11.<android.location.Location: double getLongitude()>() (in <com.medialets.analytics.f: void run()>)
+Found a flow to sink virtualinvoke $r1.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.content.Context (in <bbc.mobile.news.ww.receiver.AlarmReceiverWw: void onReceive(android.content.Context,android.content.Intent)>)
+Found a flow to sink virtualinvoke $r1.<android.os.Handler: boolean sendMessage(android.os.Message)>($r7), from the following sources:
+	- $r7 = virtualinvoke $r6.<android.os.Handler: android.os.Message obtainMessage(int,java.lang.Object)>(2, $r5) (in <bbc.mobile.news.feed.FeedManager: void fetch()>)
+Found a flow to sink virtualinvoke $r6.<android.content.Context: void startActivity(android.content.Intent)>($r2), from the following sources:
+	- $r1 := @parameter0: android.view.View (in <bbc.mobile.news.dialog.AVDialog$1: void onClick(android.view.View)>)
+Maximum memory consumption: 472.168864 MB
+Analysis has run for 50.514882569 seconds
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.3 seconds.
+[Spark] Solution found in 4.3 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: bbc.mobile.news.ww.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Found 1 layout controls in file res/layout/advert_layout.xml
+Warning: LinearLayout is a phantom class!
+Warning: bbc.mobile.news.ww.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: View is a phantom class!
+Warning: bbc.mobile.news.ww.View is a phantom class!
+Found 2 layout controls in file res/layout/article_activity_layout.xml
+Warning: TextView is a phantom class!
+Warning: bbc.mobile.news.ww.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 3 layout controls in file res/layout/article_webview_layout.xml
+Warning: ImageView is a phantom class!
+Warning: bbc.mobile.news.ww.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Found 4 layout controls in file res/layout/av_dialog_audio_item.xml
+Found 5 layout controls in file res/layout/av_dialog_container.xml
+Found 6 layout controls in file res/layout/av_dialog_video_item.xml
+Found 7 layout controls in file res/layout/banner_placeholder_layout.xml
+Found 8 layout controls in file res/layout/breaking_news_bar.xml
+Warning: ProgressBar is a phantom class!
+Warning: bbc.mobile.news.ww.ProgressBar is a phantom class!
+Warning: android.view.ProgressBar is a phantom class!
+Found 9 layout controls in file res/layout/category_view_layout.xml
+Found 10 layout controls in file res/layout/category_view_topstories_layout.xml
+Found 11 layout controls in file res/layout/categorybar.xml
+Warning: Button is a phantom class!
+Warning: bbc.mobile.news.ww.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 12 layout controls in file res/layout/connection_dialog.xml
+Found 13 layout controls in file res/layout/context_menu.xml
+Found 14 layout controls in file res/layout/copyright.xml
+Found 15 layout controls in file res/layout/debug_dialog_heap_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: bbc.mobile.news.ww.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 16 layout controls in file res/layout/feed_view_layout.xml
+Found 17 layout controls in file res/layout/gallery_item_layout.xml
+Warning: ImageButton is a phantom class!
+Warning: bbc.mobile.news.ww.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found unrecognized XML attribute:  contentDescription
+Found 18 layout controls in file res/layout/headerbar.xml
+Warning: ListView is a phantom class!
+Warning: bbc.mobile.news.ww.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 19 layout controls in file res/layout/home_screen_layout.xml
+Found 20 layout controls in file res/layout/homepage_gallery_item.xml
+Found 21 layout controls in file res/layout/list_edit_view.xml
+Warning: ScrollView is a phantom class!
+Warning: bbc.mobile.news.ww.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Found 22 layout controls in file res/layout/main.xml
+Found 23 layout controls in file res/layout/notify_complete_layout.xml
+Found 24 layout controls in file res/layout/notify_progress_layout.xml
+Found 25 layout controls in file res/layout/personalisation_activity_layout.xml
+Warning: WebView is a phantom class!
+Warning: bbc.mobile.news.ww.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 26 layout controls in file res/layout/privacy_screen_layout.xml
+Found 27 layout controls in file res/layout/remote_info_view_screen_layout.xml
+Found 28 layout controls in file res/layout/tickerbar.xml
+Found 29 layout controls in file res/layout/video.xml
+Found 30 layout controls in file res/layout/widget.xml
+Found 31 layout controls in file res/layout/widget_body.xml
+Found 32 layout controls in file res/layout/widget_gallery_fade_in.xml
+Found 33 layout controls in file res/layout/widget_gallery_fade_out.xml
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
